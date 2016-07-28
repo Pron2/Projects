@@ -1,0 +1,17 @@
+# Using python version 3.4
+# Reason/Outcome: Using the square() functions to represent print operations.
+# Resources: Read "How to think like a computer scietist: Python". Excerise 3.1 created a desire for this program.
+# I welcome any improvements.
+
+def square():
+    print("+", "-" " " * 4,"+", "-" " " * 4, "+")
+    print("|", " " " " * 4, "|", " " * 8, "|")
+    print("|", " " " " * 4, "|", " " * 8, "|")
+    print("|", " " " " * 4, "|", " " * 8, "|")
+    print("|", " " " " * 4, "|", " " * 8, "|")
+    print("+", "-" " " * 4,"+", "-" " " * 4, "+")
+    print("|", " " " " * 4, "|", " " * 8, "|")
+    print("|", " " " " * 4, "|", " " * 8, "|")
+    print("|", " " " " * 4, "|", " " * 8, "|")
+    print("|", " " " " * 4, "|", " " * 8, "|")
+    print("+", "-" " " * 4,"+", "-" " " * 4, "+")
